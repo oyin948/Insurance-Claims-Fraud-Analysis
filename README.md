@@ -204,14 +204,14 @@ insurance-claims-fraud-analysis/
 │   ├── Data_Dictionary.md
     ├── Exploratory_Data_Analysis.xlsx
 │   └── Statistical_Testing.xlsx
-├── powerBI/
+├── PowerBI/
 │   └── Insurance_Claims_Dashboard.pbix
 └── Dashboard Screenshot/
-    ├── page1_fraud_overview.png
-    ├── page2_incident_fraud_risk.png
-    ├── page3_customer_profile.png
-    ├── page4_policy_vehicle_profile.png
-    └── page5_claims_financial_exposure.png
+    ├── page1_Fraud_Overview.png
+    ├── page2_Incident_&_Fraud_Risk.png
+    ├── page3_Customer_Profile.png
+    ├── page4_Policy_&_Vehicle_Profile.png
+    └── page5_Claims_&_Financial_Exposure.png
 ```
 
 ## Conclusion
