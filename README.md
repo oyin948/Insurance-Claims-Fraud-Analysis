@@ -143,7 +143,7 @@ Key features include:
 
 **Insight:** Fraudulent claims average $60,302 in total claim amount vs. $50,289 for legitimate claims — about 20% higher — and the gap holds consistently across injury, property, and vehicle claim components.
 
-![Claims & Financial Exposure](DashboardScreenshot/page5_Claims_Financial_Exposure.png)
+![Claims & Financial Exposure](DashboardScreenshot/page5_Claims_&_Financial_Exposure.png)
 
 ## Statistical Testing
 
